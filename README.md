@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Guilherme</h1>
 <h3 align="center">A enthusiast in programming with a passion for data science, machine learning and cybersecurity</h3>
 
-- 🌱 I’m currently learning **PHP, SQL and Python**
+- 🌱 I’m currently learning **PHP and SQL**
 
 - 📫 How to reach me **carlosggmesquita16@gmail.com**
 
