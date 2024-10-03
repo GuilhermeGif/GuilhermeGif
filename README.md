@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **carlosggmesquita16@gmail.com**
 
-- ⚡ Fun fact **I like to take pictures of landscapes sometimes**
+- ⚡ Fun fact: **I like to take pictures of landscapes sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
